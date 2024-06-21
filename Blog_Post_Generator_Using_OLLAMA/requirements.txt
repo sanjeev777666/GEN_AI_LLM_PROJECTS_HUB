@@ -1,0 +1,24 @@
+langchain
+langchain-community
+# openai
+huggingface_hub
+tensorflow
+torch==2.2.2
+# torchvsion
+# pip install --upgrade --quiet  text-generation transformers google-search-results numexpr langchainhub sentencepiece jinja2
+text-generation 
+transformers
+google-search-results 
+numexpr 
+langchainhub 
+sentencepiece 
+jinja2
+# pip install -U "huggingface_hub[cli]" --user 
+huggingface_hub[cli] 
+
+# streamlit
+streamlit
+python-dotenv
+
+# OLLAMA
+ctransformers 
