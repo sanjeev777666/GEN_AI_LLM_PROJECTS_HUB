@@ -1,6 +1,0 @@
-numpy
-pandas
-langchain
-openai
-streamlit
-langchain-google-genai
