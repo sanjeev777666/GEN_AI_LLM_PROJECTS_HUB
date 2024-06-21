@@ -1,9 +1,0 @@
-langchain-community
-langchain-core
-langchain
-huggingface_hub
-streamlit
-uvicorn
-#  stuff documention chain
-PyPDF2
-langchain-text-splitters
