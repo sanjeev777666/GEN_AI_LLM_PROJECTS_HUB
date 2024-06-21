@@ -1,1 +1,0 @@
-Employ ctransformer provided corresponding llama model.bin is donwloaded into your path with varying temp & testing by Uncommenting sections.
